@@ -1,0 +1,14 @@
+body.home {
+  background:url('botnoise.png') no-repeat;
+}
+
+body.home #content{
+  width:500px;
+  background-color:#000;
+  color:#fff;
+  font-size:24pt;
+  position:absolute;
+  top:35%;
+  display:block;
+  text-align:center;
+}
